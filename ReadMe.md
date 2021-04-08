@@ -7,7 +7,6 @@
 5.  At the end, demonstration for display of toll receipts between 2 dates is provided.
     (testfile.txt is used for this purpose)
 
---------------------------------------------------------
 
 # FILES INCLUDED (12):
 
@@ -24,18 +23,15 @@
 11. testfile.txt
 12. ReadMe.txt
 
--------------------------------------------------------
 
 # TO COMPILE:
 
-    `javac Truck.java Tollbooth.java Receipt.java Barcode.java TataTruck.java MercedesBenzTruck.java MetroTollbooth.java TestTollBooth.java`
+    javac Truck.java Tollbooth.java Receipt.java Barcode.java TataTruck.java MercedesBenzTruck.java MetroTollbooth.java TestTollBooth.java
 
--------------------------------------------------------
 
 # TO RUN DRIVER CODE: 
 
-    `java TestTollBooth`
+    java TestTollBooth
 
--------------------------------------------------------
 
 
