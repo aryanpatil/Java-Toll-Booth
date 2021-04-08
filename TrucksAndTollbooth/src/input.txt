@@ -1,0 +1,6 @@
+Tata 1 5 12500 0
+MercedezBenz 2 4 10000 4
+MarcedezBenz 3 6 20000 10
+Tata 4 5 5000 15
+Tata 5 3 14000 20
+MercedezBenz 6 3 25000 22

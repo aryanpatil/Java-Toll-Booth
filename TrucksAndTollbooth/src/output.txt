@@ -1,0 +1,5 @@
+Receipt_id:RECEIPT:1 Truck_id:1 Amount:265 Time:22:21:26 Date:02-12-2020
+Receipt_id:RECEIPT:2 Truck_id:2 Amount:220 Time:22:21:28 Date:02-12-2020
+Receipt_id:RECEIPT:3 Truck_id:3 Amount:430 Time:22:21:29 Date:02-12-2020
+Receipt_id:RECEIPT:4 Truck_id:4 Amount:125 Time:22:21:29 Date:02-12-2020
+Receipt_id:RECEIPT:5 Truck_id:5 Amount:295 Time:22:21:30 Date:02-12-2020
