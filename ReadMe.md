@@ -1,13 +1,4 @@
-/*
- *      ARYAN J. PATIL
- *      BT18CSE096
- *      
- *      IOOM - ASSIGNMENT - 4
-*/
-
--------------------------------------------------------
-
-FILES INCLUDED (12):
+# FILES INCLUDED (12):
 
 1.  Truck.java
 2.  Tollbooth.java
@@ -24,19 +15,19 @@ FILES INCLUDED (12):
 
 -------------------------------------------------------
 
-TO COMPILE:
+# TO COMPILE:
 
     javac Truck.java Tollbooth.java Receipt.java Barcode.java TataTruck.java MercedesBenzTruck.java MetroTollbooth.java TestTollBooth.java
 
 -------------------------------------------------------
 
-TO RUN DRIVER CODE: 
+# TO RUN DRIVER CODE: 
 
     java TestTollBooth
 
 -------------------------------------------------------
 
-DESCRIPTION:
+# DESCRIPTION:
 
 1.  Truck enters the tollbooth.
 2.  Barcode on truck is scanned.
